@@ -188,13 +188,13 @@ main .desc2 {
     font-size: 23px; } }
 
 @media screen and (max-width: 990px) {
-  .local {
+  main .local {
     display: flex;
     flex-wrap: wrap;
     width: 100%; }
-  .parrafo {
+  main .parrafo {
     font-size: 20px; }
-  .desc2 {
+  main .desc2 {
     order: 4; } }
 
 * {
